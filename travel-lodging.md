@@ -1,0 +1,32 @@
+---
+layout: page
+title: Travel + Lodging
+permalink: /travel-lodging/
+---
+# Getting There <img src="/assets/images/paper-plane.png" alt="Paper plane" height="60" width="60">
+
+## From Reno
+
+If traveling by plane, the closest airport to South Lake Tahoe will be <b>Reno International Airport (RNO)</b>. From the airport, it's right around a 1 hour drive to South Lake Tahoe, following the I-80. Check back to see if we're able to find any rental car group discounts.
+
+<center>
+<img src="/assets/images/reno-map.png" width="400" margin="0 auto" float="left">
+</center>
+<br>
+## From San Francisco
+
+Another option is to fly into **San Francisco International Airport (SFO)**. From there, it's about 3-4  hours drive to South Lake Tahoe. If you're adding on a stay in San Francisco, please let us know; we'd love to show you some of our favorite places here!
+
+<center>
+<img src="/assets/images/sfo-map.png" width="400" margin="0 auto" float="right">
+</center>
+<br>
+# Where to Stay <img src="/assets/images/room-key.png" alt="Hotel Key" height="50" width="50">
+
+## Lakeland Village
+
+We're working on the final details of our accommodations. Please check back soon for updates!
+
+## Airbnb
+
+Airbnb is a great option in South Lake Tahoe (the new regulations restricting rentals don't go into effect until 2020).
