@@ -50,7 +50,7 @@ There are plenty of great hotels in South Lake Tahoe, these are just the ones we
 
 ## From Reno
 
-If traveling by plane, the closest airport to South Lake Tahoe will be <b>Reno International Airport (RNO)</b>. From the airport, it's right around a 1 hour drive to South Lake Tahoe, following the I-80. Check back to see if we're able to find any rental car group discounts.
+If traveling by plane, the closest airport to South Lake Tahoe will be <b>Reno International Airport (RNO)</b>. From the airport, it's right around a 1 hour drive to South Lake Tahoe. Check back to see if we're able to find any rental car group discounts.
 
 <center>
 <img src="/assets/images/reno-map.png" width="400" margin="0 auto" float="left">
