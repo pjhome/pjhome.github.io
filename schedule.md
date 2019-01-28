@@ -37,6 +37,9 @@ margin: 0 auto;
 <p class="title">
 Schedule of Events
 </p>
+<p>
+We're still planning, but here's a general outline of the weekend! Check back soon for more details.
+</p>
 <br>
 <center>
 <br>
@@ -44,7 +47,7 @@ Schedule of Events
 <p class="event">Kicking off with a cheers</p>
 </center>
 <p>
-For those arriving on Thursday, we're planning to share a welcome drink or two in the evening. <i>Details TBD.</i>
+For those arriving on Thursday, we're planning to share a welcome drink or two in the evening.
 </p>
 <br>
 
@@ -53,7 +56,7 @@ For those arriving on Thursday, we're planning to share a welcome drink or two i
 <p class="event">Enjoying the lake</p>
 </center>
 <p>
-On Friday, we'd love to have some fun in the sun on Lake Tahoe with anyone who wants to join. <i>Details TBD.</i>
+On Friday, we'd love to have some fun in the sun on Lake Tahoe with anyone who wants to join.
 </p>
 <br>
 <center>
@@ -61,7 +64,7 @@ On Friday, we'd love to have some fun in the sun on Lake Tahoe with anyone who w
 <p class="event">The big day</p>
 </center>
 <p>
-The ceremony and reception will be held at Heavenly Mountain Resort, Lakeview Lodge. We'll kick things off around 4 and keep the party going until the wee hours. <i>More details coming soon!</i>
+The ceremony and reception will be held at <b>Heavenly Mountain Resort, Lakeview Lodge</b> (park at <a href="https://goo.gl/maps/2tgU66WfmTT2" target="_blank">3860 Saddle Rd.</a> and ride the tram up!). We'll kick things off around 4 and keep the party going until the wee hours.
 </p>
 <br>
 
@@ -70,6 +73,6 @@ The ceremony and reception will be held at Heavenly Mountain Resort, Lakeview Lo
 <p class="event">So long, farewell</p>
 </center>
 <p>
-On Sunday morning, we'll share a brunch and reminisce before bidding you adieu. <i>Details TBD.</i>
+On Sunday morning, we'll share a brunch and reminisce before bidding you adieu.
 </p>
 </div>

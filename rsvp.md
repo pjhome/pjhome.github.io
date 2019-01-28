@@ -4,4 +4,4 @@ title: RSVP
 permalink: /rsvp/
 ---
 
-We hope you can make it! In this modern world, there's no need to send us a card in the mail. Just let us know below.
+<center><h1>- Coming soon! -</h1></center>

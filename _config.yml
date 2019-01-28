@@ -16,7 +16,7 @@
 title: Paige and Jordan
 email: pjhomelife@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Paige and Jordan are getting married on July 20, 2019 at Heavenly in Lake Tahoe. This site will have all the info you need about the wedding. We can't wait to celebrate with you!
+  Paige Dunn-Rankin and Jordan Schwartz are getting married on July 20, 2019 at Heavenly Mountain Resort in Lake Tahoe. We can't wait to celebrate with you!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -27,6 +27,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

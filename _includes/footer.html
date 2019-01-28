@@ -3,30 +3,20 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
+	       <p>Need anything? <a href="mailto:paigedr@gmail.com" target="_blank">Email us.</a></p>
+
       </div>
 
       <div class="footer-col footer-col-2">
-        {%- include social.html -%}
+	<center>
+          <img src="/assets/images/rings-icon.png" width="80">
+	  </center>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+	        <p>{{- site.description | escape -}}</p>
       </div>
     </div>
 
