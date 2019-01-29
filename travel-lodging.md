@@ -18,9 +18,9 @@ We wanted to give everyone the option to stay close together, so we've picked a 
 
 We'd recommend you check this option first (P + J are staying here!). The property is affiliated with Heavenly, and we're getting a special discount through the wedding planners. We may have a good option for hosting some of the weekend's events here, too (still working on the details!). The rates are highly competitive for the area, especially if families or friends end up staying together, as the bigger condos offer the best value. The minimum stay is 2 nights.
 
-<b>Book:</b> On the website <b><a href="https://gc.synxis.com/rez.aspx?Chain=6521&Dest=HVL&template=SAHV&shell=SUMSAHV&arrive=7/19/2019&depart=7/22/2019&adult=2&child=0&promo=GH4CLW" target="_blank">here</a></b>. Or by phone: 1-855-221-4337. 
+<b>Book:</b> View prices on the website <b><a href="https://gc.synxis.com/rez.aspx?Chain=6521&Dest=HVL&template=SAHV&shell=SUMSAHV&arrive=7/19/2019&depart=7/22/2019&adult=2&child=0&promo=GH4CLW" target="_blank">here</a></b> and book by phone: 1-855-221-4337. 
 
-<b>Discount:</b> On the web, it's automatically applied using our booking link (promo code: <b>GH4CLW</b>), so what you are seeing are the discounted prices. On the phone, mention you're booking with the <b>Schwartz & Dunn-Rankin Wedding Group</b>.
+ Unfortunately, we just talked to them and they messed up our wedding group online, so for now please don't book online, and instead call in and provide the code <b>GH4DRSW</b> or the group name <b>Schwartz & Dunn-Rankin Wedding Group</b>. We'll get this fixed so you can book online ASAP!
 
 ## Tahoe Lakeshore Lodge & Spa
 
@@ -28,7 +28,7 @@ This property is literally right next door to Lakeland Village. We were able to 
 
 <b>Book:</b> View rooms on the website <b><a href="www.tahoelakeshorelodge.com" target="_blank">here</a></b>, then call 1-800-448-4577 to make your booking with the discount.
 
-<b>Discount</b>: To receive the 10% discount, mention you are reserving for the <b>Schwartz & Dunn-Rankin Wedding Group</b> over the phone (sorry, they weren't able to set this up online for us).
+To receive the 10% discount, mention you are reserving for the <b>Schwartz & Dunn-Rankin Wedding Group</b> over the phone (sorry, they weren't able to set this up online for us).
 
 ## Postmarc Hotel and Spa Suites
 
