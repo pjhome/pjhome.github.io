@@ -59,7 +59,7 @@ If traveling by plane, the closest airport to South Lake Tahoe will be <b>Reno I
 Another option, which is worth investigating for more flight choices or lower prices, is flying into <b>Sacramento International Airport (SMF)</b>. From there, the drive is around 2 hours to South Lake Tahoe.
 
 <center>
-<img src="/assets/images/sac-map.jpg" width="500" margin="0 auto" float="left">
+<img src="/assets/images/sac-map.png" width="500" margin="0 auto" float="left">
 </center>
 <br>
 ## From San Francisco
