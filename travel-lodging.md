@@ -40,6 +40,7 @@ There are plenty of great hotels in South Lake Tahoe, these are just the ones we
 
 <b><a href="airbnb.com" target="_blank">Airbnb</a></b> and <b><a href="vrbo.com" target="_blank">VRBO</a></b> are also great options in South Lake Tahoe, especially if you're coming with a big group (you might have read news about regulations restricting rentals, but they won't go into effect until 2020).
 
+<br>
 ---
 <br>
 <center>
@@ -54,9 +55,17 @@ If traveling by plane, the closest airport to South Lake Tahoe will be <b>Reno I
 <img src="/assets/images/reno-map.png" width="400" margin="0 auto" float="left">
 </center>
 <br>
+## From Sacramento
+
+Another option, which is worth investigating for more flight choices or lower prices, is flying into <b>Sacramento International Airport (SMF)</b>. From there, the drive is around 2 hours to South Lake Tahoe.
+
+<center>
+<img src="/assets/images/sac-map.jpg" width="400" margin="0 auto" float="left">
+</center
+<br>
 ## From San Francisco
 
-Another option is to fly into **San Francisco International Airport (SFO)**. From there, it's about 3-4  hours drive to South Lake Tahoe. If you're adding on a stay in San Francisco, please let us know; we'd love to show you some of our favorite places here!
+A third option is to fly into **San Francisco International Airport (SFO)**. From there, it's about 3-4 hours' drive to South Lake Tahoe. If you're adding on a stay in San Francisco, please let us know; we'd love to show you some of our favorite places here!
 
 <center>
 <img src="/assets/images/sfo-map.png" width="400" margin="0 auto" float="right">
