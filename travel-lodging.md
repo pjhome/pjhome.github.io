@@ -18,7 +18,7 @@ We wanted to give everyone the option to stay close together, so we've picked a 
 
 We'd recommend you check this option first (P + J are staying here!). The property is affiliated with Heavenly, and we're getting a special discount through the wedding planners. We may have a good option for hosting some of the weekend's events here, too (still working on the details!). The rates are highly competitive for the area, especially if families or friends end up staying together, as the bigger condos offer the best value. The minimum stay is 2 nights.
 
-<b>Book:</b> On the website <b><a href="https://gc.synxis.com/rez.aspx?Chain=6521&Dest=HVL&template=SAHV&shell=SUMSAHV&arrive=7/19/2019&depart=7/22/2019&adult=2&child=0&promo=GH4CLW" target="_blank">here</a></b>. Or book by phone: 1-855-221-4337. On the web, the prices you see are already discounted, automatically applying the promo code GH4CLW. Over the phone, to get the discount, you'll need to give the booking agent the code <b>GH4DRSW</b> (note this is different from the online one), or just mention our names. 
+<b>Book:</b> On the website <b><a href="https://gc.synxis.com/rez.aspx?Chain=6521&Dest=HVL&template=SAHV&shell=SUMSAHV&arrive=7/17/2019&depart=7/21/2019&adult=2&child=0&promo=GH4DRSW" target="_blank">here</a></b>. Or book by phone: 1-855-221-4337. On the web, the prices you see are already discounted. Over the phone, to get the discount, you'll need to give the booking agent the promo code <b>GH4DRSW</b>, or just mention our names.
 
 ## Tahoe Lakeshore Lodge & Spa
 
