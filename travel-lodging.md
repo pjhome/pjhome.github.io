@@ -24,7 +24,7 @@ We'd recommend you check this option first (P + J are staying here!). The proper
 
 This property is literally right next door to Lakeland Village. We were able to get a 10% discount for our guests. The amenities are slightly different, but the rates for a single room are a little better than Lakeland Village. There are fewer great options for large groups, though. For arrivals on Friday or Saturday, the minimum stay is 3 nights.
 
-<b>Book:</b> View rooms on the website <b><a href="www.tahoelakeshorelodge.com" target="_blank">here</a></b>, then call 1-800-448-4577 to make your booking with the discount.
+<b>Book:</b> View rooms on the website <b><a href="https://www.tahoelakeshorelodge.com" target="_blank">here</a></b>, then call 1-800-448-4577 to make your booking with the discount.
 
 To receive the 10% discount, mention you are reserving for the <b>Schwartz & Dunn-Rankin Wedding Group</b> over the phone (sorry, they weren't able to set this up online for us).
 
