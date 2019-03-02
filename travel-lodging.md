@@ -32,13 +32,13 @@ To receive the 10% discount, mention you are reserving for the <b>Schwartz & Dun
 
 While we haven't been able to get a personal discount here, the prices are quite reasonable for the season, with the lowest rates for single rooms of the three (they don't offer condos, only suites). This hotel doesn't have access to a private beach or pool like the other two do, but the rooms look nice, and there is no minimum stay if you're just popping up for 1 night.
 
-<b>Book</b>: On their website <b><a href="https://www.postmarchotels.com/en-us" target="_blank">here</a></b> or by phone at 530-541-4200. (They emailed to tell us they always provide "20% off" when you book directly on their site or by phone.)
+<b>Book</b>: On their website <b><a href="http://www.postmarchotels.com/en-us" target="_blank">here</a></b> or by phone at 530-541-4200. (They emailed to tell us they always provide "20% off" when you book directly on their site or by phone.)
 
 <center><h1>- Other Options -</h1></center>
 
 There are plenty of great hotels in South Lake Tahoe, these are just the ones we recommend and we like that they're located very close together. But there are even other hotels on the same block, we just tried to pick the ones that we thought offered the best value and amenities. So feel free to shop around!
 
-<b><a href="airbnb.com" target="_blank">Airbnb</a></b> and <b><a href="vrbo.com" target="_blank">VRBO</a></b> are also great options in South Lake Tahoe, especially if you're coming with a big group (you might have read news about regulations restricting rentals, but they won't go into effect until 2020).
+<b><a href="http://www.airbnb.com" target="_blank">Airbnb</a></b> and <b><a href="http://www.vrbo.com" target="_blank">VRBO</a></b> are also great options in South Lake Tahoe, especially if you're coming with a big group (you might have read news about regulations restricting rentals, but they won't go into effect until 2020).
 
 ---
 <br>
