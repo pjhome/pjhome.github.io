@@ -18,7 +18,7 @@ margin: 0 auto;
 p.title {
 font-family: 'Satisfy';
 color: $text-color;
-font-size: 2em;
+font-size: 1.5em;
 }
 p.details {
 font-size: 0.8em;
@@ -40,9 +40,7 @@ margin: 0 auto;
 Schedule of Events
 </h1></center>
 <br>
-<p class="title">Friday, July 19</p><br>
-<p>
-<b>Welcome Picnic at the Lake</b><br></p>
+<p class="title">Friday, July 19 // Welcome Picnic at the Lake</p><br>
 <p class="details">Come join us for an afternoon at the lake! We'll have drinks, a taco truck (come hungry!), lawn games, and some seating. There's a pier for launching kayaks and paddleboards and a small beach. There's a big grassy area where we'll be hanging out.</p><br>
 <p>
 <b>Where:</b> Thomas F Regan Memorial City Beach<br>
@@ -52,9 +50,7 @@ Schedule of Events
 <p class="details">Friday evening, we'll probably go out to the casinos and see if we can get lucky before we tie the knot ;)</p>
 <br>
 
-<p class="title">Saturday, July 20</p><br>
-<p>
-<b>Ceremony & Reception</b><br></p>
+<p class="title">Saturday, July 20 // Ceremony & Reception</p><br>
 <p class="details">
 Our wedding is at about 8,000 ft. elevation with amazing views of Lake Tahoe (PSA: stay hydrated!). The ceremony is outdoors on a concrete patio. Dinner will be held inside the lodge and dancing will be outside on the deck.</p>
 <br><p>
@@ -62,16 +58,14 @@ Our wedding is at about 8,000 ft. elevation with amazing views of Lake Tahoe (PS
 The tram up to the ceremony & reception site leaves from the parking lot at this location:<br>
 <a href="https://goo.gl/maps/wh7VMmbAfHS2">3860 Saddle Rd, South Lake Tahoe, CA 96150</a><br>. 
 <b>When:</b> Ceremony starts at 5 pm, last tram up at 4:45 pm</p>
-<p class="details"><br>Getting married on top of a mountain presents some unusual logistics! The venue likes to start things on time, and they have a strict rule that the tram stops running during the ceremony. Therefore, we ask that you be at the tram by 4:30, and please don't be late! Seriously...we've heard some horror stories about people being late and missing the ceremony here. (After the ceremony, the tram will be running all night.)</p>
+<p class="details"><br>The venue likes to start things on time, and they have a strict rule that the tram stops running during the ceremony. Therefore, we ask that you be at the tram by 4:30, and please don't be late! Seriously...we've heard some horror stories about guests missing the tram and the whole ceremony. (After the ceremony, the tram will be running all night.)</p>
 <p>
 <br>
 <b>Attire:</b> Semi-formal</p>
 <br>
 
-<p class="title">Sunday, July 21</p>
+<p class="title">Sunday, July 21 // Farewell Brunch</p>
 <br>
-<p>
-<b>Farewell Brunch</b></p>
 <p class="details">
 On Sunday morning, we'll share a brunch and reminisce before bidding you adieu.</p><p>
 <br><b>Where:</b> Lakeland Village Resort, Lakeshore Room<br>
