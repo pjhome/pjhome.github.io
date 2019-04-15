@@ -27,7 +27,7 @@ font-size: 0.9em;
 }
 
 p.datetime {
-font-size: 1em;
+font-size: 0.95em;
 text-align: center;
 }
 
@@ -67,13 +67,13 @@ The tram up to the ceremony & reception site leaves from the parking lot at <a h
 <b>When:</b> Ceremony starts at 5 pm, last tram up at 4:45 pm<br>
 <b>Attire:</b> Semi-formal<br></p>
 <p class="details">
-<br><b><i>Important note:</i> The venue likes to start things on time, and they have a strict rule that the tram stops running during the ceremony. Therefore, we ask that you be at the tram by 4:30, and please don't be late! Seriously...we've heard some horror stories about guests missing the tram and the whole ceremony. (After the ceremony, the tram will be running all night.)</p>
+<br><b><i>Important note:</i></b> The venue likes to start things on time, and they have a strict rule that the tram stops running during the ceremony. Therefore, we ask that you be at the tram by 4:30, and please don't be late! Seriously...we've heard some horror stories about guests missing the tram and the whole ceremony. (After the ceremony, the tram will be running all night.)</p>
 <br>
 <br>
 
 <p class="title">Sunday, July 21:&ensp;Farewell Brunch</p>
 <p class="details">
-On Sunday morning, we'll share a brunch and reminisce before bidding you adieu.</p><br>
+On Sunday morning, we'll share brunch and reminisce the night.</p><br>
 <p class="datetime"><b>Where:</b> Lakeland Village Resort, Lakeshore Room<br>
 <a href="https://goo.gl/maps/s6h2nooG8ZD2">3535 Lake Tahoe Blvd, South Lake Tahoe, CA 96150</a>
 <br><b>When:</b> 9 am - 12 pm (come by whenever you roll out of bed!)</p>
