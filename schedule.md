@@ -37,34 +37,38 @@ margin: 0 auto;
 <p class="title">
 Schedule of Events
 </p>
-<p>
-We're still planning, but here's a general outline of the weekend! Check back soon for more details.
-</p>
 <br>
 <center>
 <br>
-<h1>- Thursday, July 18 -</h1>
-<p class="event">Kicking off with a cheers</p>
+<h1>- Friday, July 19 -</h1>
+<p class="event">Kicking off the party</p>
 </center>
 <p>
-For those arriving on Thursday, we're planning to share a welcome drink or two in the evening.
+<b>Welcome Picnic at the Lake</b><br>
+Come join us for an afternoon at the lake! We'll have drinks, a taco truck (come hungry!), lawn games, and some seating. There's a pier for launching kayaks and paddleboards and a small beach. There's a big grassy area where we'll be hanging out.<br>
+<b>Where:</b> Thomas F Regan Memorial City Beach<br>
+<a href=https://goo.gl/maps/iX3Tj431Zg22>3199 Sacramento Ave, South Lake Tahoe, CA 96150</a><br>
+<b>When:</b> 2pm - 6pm (feel free to stop by any time!)<br><br>
+
+Friday evening, we'll probably go out to the casinos and see if we can get lucky before we tie the knot. 
 </p>
 <br>
 
-<center>
-<h1>- Friday, July 19 -</h1>
-<p class="event">Enjoying the lake</p>
-</center>
-<p>
-On Friday, we'd love to have some fun in the sun on Lake Tahoe with anyone who wants to join.
-</p>
-<br>
 <center>
 <h1>- Saturday, July 20 -</h1>
 <p class="event">The big day</p>
 </center>
 <p>
-The ceremony and reception will be held at <b>Heavenly Mountain Resort, Lakeview Lodge</b> (park at <a href="https://goo.gl/maps/2tgU66WfmTT2" target="_blank">3860 Saddle Rd.</a> and ride the tram up!). We'll kick things off around 4 and keep the party going until the wee hours.
+<b>Ceremony & Reception</b><br>
+Our wedding is at about 8,000 ft. elevation with amazing views of Lake Tahoe (PSA: stay hydrated!). The ceremony is outdoors on a concrete patio. Dinner will be held inside the lodge and dancing will be outside on the deck.
+<br>
+<b>Where:</b> Heavenly Mountain Resort, Lakeview Lodge<br>
+The tram up to the ceremony & reception site leaves from the parking lot at this location:<br>
+<a href="https://goo.gl/maps/wh7VMmbAfHS2">3860 Saddle Rd, South Lake Tahoe, CA 96150</a><br>. 
+<b>When:</b> Ceremony starts at 5 pm, last tram up at 4:45 pm
+<br>Getting married on top of a mountain presents some unusual logistics as we get everyone up the tram to the ceremony and reception site! The venue likes to start things on time, and they have a strict rule that the tram stops running during the ceremony. Therefore, we ask that you be at the tram by 4:30, and please don't be late! Seriously...we've heard some horror stories about people being late and missing the ceremony here. (After the ceremony, the tram will be running all night.)
+<br>
+<b>Attire:</b> Semi-formal
 </p>
 <br>
 
@@ -73,6 +77,10 @@ The ceremony and reception will be held at <b>Heavenly Mountain Resort, Lakeview
 <p class="event">So long, farewell</p>
 </center>
 <p>
+<b>Farewell Brunch</b>
 On Sunday morning, we'll share a brunch and reminisce before bidding you adieu.
+<br><b>Where:</b> Lakeland Village Resort, Lakeshore Room<br>
+<a href="https://goo.gl/maps/s6h2nooG8ZD2">3535 Lake Tahoe Blvd, South Lake Tahoe, CA 96150</a>
+<br><b>When:</b> 9 am - 12 pm (come by whenever you roll out of bed!)
 </p>
 </div>
