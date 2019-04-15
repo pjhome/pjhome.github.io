@@ -21,7 +21,7 @@ color: $text-color;
 font-size: 1.5em;
 }
 p.details {
-font-size: 1em;
+font-size: 0.9em;
 }
 
 div.background {
@@ -40,15 +40,16 @@ margin: 0 auto;
 Schedule of Events
 </h1></center>
 <br>
-<p class="title">Friday, July 19  -  Welcome Picnic at the Lake</p>
+<p class="title">Friday, July 19 &ensp; - &ensp; Welcome Picnic at the Lake</p>
 <p class="details">Come join us for an afternoon at the lake! We'll have drinks, a taco truck (come hungry!), lawn games, and some seating. There's a pier for launching kayaks and paddleboards and a small beach. There's a big grassy area where we'll be hanging out.<br>
 <b>Where:</b> Thomas F Regan Memorial City Beach<br>
 <a href="https://goo.gl/maps/iX3Tj431Zg22">3199 Sacramento Ave, South Lake Tahoe, CA 96150</a><br>
 <b>When:</b> 2pm - 6pm (feel free to stop by any time!)<br><br>
 Friday evening, we'll probably go out to the casinos and see if we can get lucky before we tie the knot ;)
 <br>
+</p>
 
-<p class="title">Saturday, July 20  -  Ceremony & Reception</p>
+<p class="title">Saturday, July 20 &ensp; - &ensp; Ceremony & Reception</p>
 <p class="details">
 Our wedding is at about 8,000 ft. elevation with amazing views of Lake Tahoe (PSA: stay hydrated!). The ceremony is outdoors on a concrete patio. Dinner will be held inside the lodge and dancing will be outside on the deck.
 <br>
@@ -62,7 +63,7 @@ The tram up to the ceremony & reception site leaves from the parking lot at this
 <br>
 </p>
 
-<p class="title">Sunday, July 21  -  Farewell Brunch</p>
+<p class="title">Sunday, July 21 &ensp; -  &ensp; Farewell Brunch</p>
 <br>
 <p class="details">
 On Sunday morning, we'll share a brunch and reminisce before bidding you adieu.
