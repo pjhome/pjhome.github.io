@@ -18,11 +18,10 @@ margin: 0 auto;
 p.title {
 font-family: 'Satisfy';
 color: $text-color;
-font-size: 3em;
-text-align: center;
+font-size: 2em;
 }
 p.details {
-font-size: 0.75em;
+font-size: 0.8em;
 }
 
 div.background {
@@ -37,15 +36,11 @@ margin: 0 auto;
 
 <div class="background">
 <br>
-<p class="title">
+<center><h1>
 Schedule of Events
-</p>
+</h1></center>
 <br>
-<center>
-<br>
-<h1>- Friday, July 19 -</h1>
-<p class="event">Kicking off the party</p>
-</center>
+<p class="title">Friday, July 19</p><br>
 <p>
 <b>Welcome Picnic at the Lake</b><br></p>
 <p class="details">Come join us for an afternoon at the lake! We'll have drinks, a taco truck (come hungry!), lawn games, and some seating. There's a pier for launching kayaks and paddleboards and a small beach. There's a big grassy area where we'll be hanging out.</p><br>
@@ -57,10 +52,7 @@ Schedule of Events
 <p class="details">Friday evening, we'll probably go out to the casinos and see if we can get lucky before we tie the knot ;)</p>
 <br>
 
-<center>
-<h1>- Saturday, July 20 -</h1>
-<p class="event">The big day</p>
-</center>
+<p class="title">Saturday, July 20</p><br>
 <p>
 <b>Ceremony & Reception</b><br></p>
 <p class="details">
@@ -76,10 +68,8 @@ The tram up to the ceremony & reception site leaves from the parking lot at this
 <b>Attire:</b> Semi-formal</p>
 <br>
 
-<center>
-<h1>- Sunday, July 21 -</h1>
-<p class="event">So long, farewell</p>
-</center>
+<p class="title">Sunday, July 21</p>
+<br>
 <p>
 <b>Farewell Brunch</b></p>
 <p class="details">
