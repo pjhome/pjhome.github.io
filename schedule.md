@@ -52,12 +52,12 @@ Friday evening, we'll probably go out to the casinos and see if we can get lucky
 
 <p class="title">Saturday, July 20:&ensp;Ceremony & Reception</p>
 <p class="details">
-Our wedding is at about 8,000 ft. elevation with amazing views of Lake Tahoe (PSA: stay hydrated!). The ceremony is outdoors on a concrete patio. Dinner will be held inside the lodge and dancing will be outside on the deck.<center>
+Our wedding is at about 8,000 ft. elevation with amazing views of Lake Tahoe (PSA: stay hydrated!). The ceremony is outdoors on a concrete patio. Dinner will be held inside the lodge and dancing will be outside on the deck.
 <br><center>
 <b>Where: Heavenly Mountain Resort, Lakeview Lodge<br>
 The tram up to the ceremony & reception site leaves from the parking lot at <a href="https://goo.gl/maps/wh7VMmbAfHS2">3860 Saddle Rd, South Lake Tahoe, CA 96150</a><br><br>
-<b>When:</b> Ceremony starts at 5 pm, last tram up at 4:45 pm<br>
-<b>Attire:</b> Semi-formal<br></center>
+When: Ceremony starts at 5 pm, last tram up at 4:45 pm<br>
+Attire: Semi-formal<br></center></b>
 <br><b><i>Important note:</b></i> The venue likes to start things on time, and they have a strict rule that the tram stops running during the ceremony. Therefore, we ask that you be at the tram by 4:30, and please don't be late! Seriously...we've heard some horror stories about guests missing the tram and the whole ceremony. (After the ceremony, the tram will be running all night.)
 <br>
 <br>
