@@ -11,7 +11,7 @@ font-size: 2.25em;
 color: #18e2c8;
 }
 </style>
-<img src="/assets/images/married-card-blurry.png" alt="Banner">
+<img src="/assets/images/married-card-blurry.png" width="800" alt="Banner">
 <br>
 <center>
 <img src="/assets/images/pixel-heart.png" width="200">
