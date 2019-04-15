@@ -21,7 +21,7 @@ color: $text-color;
 font-size: 1.5em;
 }
 p.details {
-font-size: 0.8em;
+font-size: 1em;
 }
 
 div.background {
@@ -40,34 +40,32 @@ margin: 0 auto;
 Schedule of Events
 </h1></center>
 <br>
-<p class="title">Friday, July 19 // Welcome Picnic at the Lake</p><br>
-<p class="details">Come join us for an afternoon at the lake! We'll have drinks, a taco truck (come hungry!), lawn games, and some seating. There's a pier for launching kayaks and paddleboards and a small beach. There's a big grassy area where we'll be hanging out.</p><br>
-<p>
+<p class="title">Friday, July 19  -  Welcome Picnic at the Lake</p>
+<p class="details">Come join us for an afternoon at the lake! We'll have drinks, a taco truck (come hungry!), lawn games, and some seating. There's a pier for launching kayaks and paddleboards and a small beach. There's a big grassy area where we'll be hanging out.<br>
 <b>Where:</b> Thomas F Regan Memorial City Beach<br>
 <a href="https://goo.gl/maps/iX3Tj431Zg22">3199 Sacramento Ave, South Lake Tahoe, CA 96150</a><br>
-<b>When:</b> 2pm - 6pm (feel free to stop by any time!)<br><br></p>
-
-<p class="details">Friday evening, we'll probably go out to the casinos and see if we can get lucky before we tie the knot ;)</p>
+<b>When:</b> 2pm - 6pm (feel free to stop by any time!)<br><br>
+Friday evening, we'll probably go out to the casinos and see if we can get lucky before we tie the knot ;)
 <br>
 
-<p class="title">Saturday, July 20 // Ceremony & Reception</p><br>
+<p class="title">Saturday, July 20  -  Ceremony & Reception</p>
 <p class="details">
-Our wedding is at about 8,000 ft. elevation with amazing views of Lake Tahoe (PSA: stay hydrated!). The ceremony is outdoors on a concrete patio. Dinner will be held inside the lodge and dancing will be outside on the deck.</p>
-<br><p>
+Our wedding is at about 8,000 ft. elevation with amazing views of Lake Tahoe (PSA: stay hydrated!). The ceremony is outdoors on a concrete patio. Dinner will be held inside the lodge and dancing will be outside on the deck.
+<br>
 <b>Where:</b> Heavenly Mountain Resort, Lakeview Lodge<br>
 The tram up to the ceremony & reception site leaves from the parking lot at this location:<br>
-<a href="https://goo.gl/maps/wh7VMmbAfHS2">3860 Saddle Rd, South Lake Tahoe, CA 96150</a><br>. 
-<b>When:</b> Ceremony starts at 5 pm, last tram up at 4:45 pm</p>
-<p class="details"><br>The venue likes to start things on time, and they have a strict rule that the tram stops running during the ceremony. Therefore, we ask that you be at the tram by 4:30, and please don't be late! Seriously...we've heard some horror stories about guests missing the tram and the whole ceremony. (After the ceremony, the tram will be running all night.)</p>
-<p>
+<a href="https://goo.gl/maps/wh7VMmbAfHS2">3860 Saddle Rd, South Lake Tahoe, CA 96150</a><br>
+<b>When:</b> Ceremony starts at 5 pm, last tram up at 4:45 pm
+<br><b>Important note:</b> The venue likes to start things on time, and they have a strict rule that the tram stops running during the ceremony. Therefore, we ask that you be at the tram by 4:30, and please don't be late! Seriously...we've heard some horror stories about guests missing the tram and the whole ceremony. (After the ceremony, the tram will be running all night.)
 <br>
-<b>Attire:</b> Semi-formal</p>
+<b>Attire:</b> Semi-formal
 <br>
+</p>
 
-<p class="title">Sunday, July 21 // Farewell Brunch</p>
+<p class="title">Sunday, July 21  -  Farewell Brunch</p>
 <br>
 <p class="details">
-On Sunday morning, we'll share a brunch and reminisce before bidding you adieu.</p><p>
+On Sunday morning, we'll share a brunch and reminisce before bidding you adieu.
 <br><b>Where:</b> Lakeland Village Resort, Lakeshore Room<br>
 <a href="https://goo.gl/maps/s6h2nooG8ZD2">3535 Lake Tahoe Blvd, South Lake Tahoe, CA 96150</a>
 <br><b>When:</b> 9 am - 12 pm (come by whenever you roll out of bed!)
