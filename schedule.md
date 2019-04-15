@@ -42,10 +42,11 @@ Schedule of Events
 </h1></center>
 <br>
 <p class="title">Friday, July 19:&ensp;Welcome Picnic at the Lake</p>
-<p class="details">Come join us for an afternoon at the lake! We'll have drinks, a taco truck (come hungry!), lawn games, and some seating. There's a pier for launching kayaks and paddleboards and a small beach. There's a big grassy area where we'll be hanging out.<br><br><center>
+<p class="details">Come join us for an afternoon at the lake! We'll have drinks, a taco truck (come hungry!), lawn games, and some seating. There's a pier for launching kayaks and paddleboards and a small beach. There's a big grassy area where we'll be hanging out.<br><br>
+<center>
 <b>Where: Thomas F Regan Memorial City Beach<br>
 <a href="https://goo.gl/maps/iX3Tj431Zg22">3199 Sacramento Ave, South Lake Tahoe, CA 96150</a><br>
-When: 2pm - 6pm (feel free to stop by any time!)<br><br></center></b>
+When: 2pm - 6pm (feel free to stop by any time!)<br><br></b></center>
 Friday evening, we'll probably go out to the casinos and see if we can get lucky before we tie the knot ;)
 <br><br>
 </p>
