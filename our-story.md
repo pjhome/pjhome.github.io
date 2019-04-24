@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Our Story
+permalink: /our-story/
 ---
 <style>
 p.first-line {
