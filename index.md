@@ -9,13 +9,20 @@ p.first-line {
 font-family: 'Satisfy';
 font-size: 2em;
 color: #18e2c8;
+padding: 0px;
+}
+
+p {
+padding: 5px;
+}
+
+h1 {
+padding: 5px;
 }
 
 .column {
   float: left;
-  width: 30%;
-  padding-left: 5px;
-  padding-right: 5px;
+  width: 33.33%;
 }
 
 .row:after {
