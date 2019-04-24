@@ -7,13 +7,14 @@ layout: page
 <style>
 p.first-line {
 font-family: 'Satisfy';
-font-size: 2.25em;
+font-size: 2em;
 color: #18e2c8;
 }
 
 .column {
   float: left;
   width: 33.33%;
+  padding: 10px;
 }
 
 .row:after {
@@ -29,24 +30,25 @@ color: #18e2c8;
 }
 </style>
 <img src="/assets/images/married-card-blurry.png">
+<center><p class="first-line">Our wedding weekend</p></center>
 <div class="row">
   <div class="column">
   <h1>Friday July 19</h1>
-  <br><br>
-  <p><b>2 pm - 6 pm | Regan Beach</b>
-  <br><br>
+  <p><b>2 pm - 6 pm | Thomas F Regan Memorial City Beach</b>
+  <br>
   Welcome picnic with taco truck, lawn games, and fun at the beach. Free parking, ample shade.</p> 
   </div>
   <div class="column">
   <h1>Saturday July 20</h1>
   <p><b>5 pm | Heavenly Mountain Resort, Lakeview Lodge</b>
+  <br>
   Ceremony & reception with drinks, buffet dinner, and dancing. Semi-formal attire. Last tram up the mountain at 4:45.
   </p>
   </div>
   <div class="column">
   <h1>Sunday July 21</h1>
-  <p><b>9 am - 12 pm | Lakeland Village</b>
-  <br><br>Stop by for a farewell brunch at the hotel with lake access.</p>
+  <p><b>9 am - 12 pm | Lakeland Village Resort</b>
+  <br>Stop by for a farewell brunch at the hotel with lake access.</p>
   </div>
 </div>
 <center>
