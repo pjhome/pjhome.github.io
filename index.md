@@ -32,7 +32,7 @@ color: #18e2c8;
 <center>
 <p class="first-line">Join us for a Tahoe wedding weekend!</p>
 <br>
-<p>RSVP <a href="www.paigeandjordan.com/rsvp/">here.</a></p>
+<p>RSVP <a href="/rsvp">here.</a></p>
 </center>
 
 <div class="row">
