@@ -28,7 +28,7 @@ color: #18e2c8;
   }
 }
 </style>
-
+<img src="/assets/images/married-card-blurry.png"></img>
 <center>
 <p class="first-line">Join us for a Tahoe wedding weekend!</p>
 <br>
