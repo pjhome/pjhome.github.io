@@ -61,6 +61,5 @@ padding: 5px;
 </div>
 <center>
 <p><b>Click <a href="/rsvp">here</a> to RSVP.</b></p>
-<br>
 <img src="/assets/images/website-homepage.png">
 </center>
