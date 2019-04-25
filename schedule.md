@@ -42,28 +42,23 @@ margin: 0 auto;
 </style>
 
 <div class="background">
-<br>
-<center><h1>
-Schedule of Events
-</h1></center>
-<br>
 <p class="title">Friday, July 19:&ensp;Welcome Picnic at the Lake</p>
-<p class="details">Come join us for an afternoon at the lake! We'll have drinks, a taco truck (come hungry!), lawn games, and some seating. There's a pier for launching kayaks and paddleboards and a small beach. There's a big grassy area where we'll be hanging out.<br><br></p>
+<p class="details">Come join us for an afternoon at the lake! We'll have drinks, a taco truck (come hungry!), lawn games, and some seating. There's a pier for launching kayaks and paddleboards and a small beach. We'll be hanging out at the beach park (shade & grass aplenty). Parking here is free.<br><br></p>
 <p class="datetime">
 <b>Where:</b> Thomas F Regan Memorial City Beach<br>
 <a href="https://goo.gl/maps/iX3Tj431Zg22">3199 Sacramento Ave, South Lake Tahoe, CA 96150</a><br>
-<b>When:</b> 2pm - 6pm (feel free to stop by any time!)<br><br></p>
+<b>When:</b> 2 pm - 6 pm (feel free to stop by any time!)<br><br></p>
 <p class="details">Friday evening, we'll probably go out to the casinos and see if we can get lucky before we tie the knot ;)
 <br><br>
 </p>
 
 <p class="title">Saturday, July 20:&ensp;Ceremony & Reception</p>
 <p class="details">
-Our wedding is at about 8,000 ft. elevation with amazing views of Lake Tahoe (PSA: stay hydrated!). The ceremony is outdoors on a concrete patio. Dinner will be held inside the lodge and dancing will be outside on the deck.</p>
+Our wedding is at about 8,000 ft. elevation at Lakeview Lodge, which is part of Heavenly Mountain Resort (in the winter, it serves hungry skiers). After riding up the Aerial Tram with fellow guests, you'll reach the lodge. The ceremony is outdoors on a concrete patio. There will be a cocktail hour followed by buffet dinner inside the lodge, and then we'll return outside to the heated deck for dancing.</p>
 <br>
 <p class="datetime">
 <b>Where:</b> Heavenly Mountain Resort, Lakeview Lodge<br>
-The tram up to the ceremony & reception site leaves from the parking lot at <a href="https://goo.gl/maps/wh7VMmbAfHS2">3860 Saddle Rd, South Lake Tahoe, CA 96150</a><br>
+The Aerial Tram leaves from the parking lot at <a href="https://goo.gl/maps/wh7VMmbAfHS2">3860 Saddle Rd, South Lake Tahoe, CA 96150</a><br>
 <b>When:</b> Ceremony starts at 5 pm, last tram up at 4:45 pm<br>
 <b>Attire:</b> Semi-formal<br></p>
 <p class="details">
@@ -73,7 +68,7 @@ The tram up to the ceremony & reception site leaves from the parking lot at <a h
 
 <p class="title">Sunday, July 21:&ensp;Farewell Brunch</p>
 <p class="details">
-On Sunday morning, we'll share brunch and reminisce the night.</p><br>
+On Sunday morning, we'll share brunch and reminisce the night. The room opens out onto a beach, so feel free to bring your bathing suit & stay for a while. If you're not staying at the hotel, it's ok to use the large parking lot there (on the DL).</p><br>
 <p class="datetime"><b>Where:</b> Lakeland Village Resort, Lakeshore Room<br>
 <a href="https://goo.gl/maps/s6h2nooG8ZD2">3535 Lake Tahoe Blvd, South Lake Tahoe, CA 96150</a>
 <br><b>When:</b> 9 am - 12 pm (come by whenever you roll out of bed!)</p>
