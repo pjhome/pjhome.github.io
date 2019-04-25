@@ -42,6 +42,7 @@ margin: 0 auto;
 </style>
 
 <div class="background">
+<br>
 <p class="title">Friday, July 19:&ensp;Welcome Picnic at the Lake</p>
 <p class="details">Come join us for an afternoon at the lake! We'll have drinks, a taco truck (come hungry!), lawn games, and some seating. There's a pier for launching kayaks and paddleboards and a small beach. We'll be hanging out at the beach park (shade & grass aplenty). Parking here is free.<br><br></p>
 <p class="datetime">
@@ -54,7 +55,7 @@ margin: 0 auto;
 
 <p class="title">Saturday, July 20:&ensp;Ceremony & Reception</p>
 <p class="details">
-Our wedding is at about 8,000 ft. elevation at Lakeview Lodge, which is part of Heavenly Mountain Resort (in the winter, it serves hungry skiers). After riding up the Aerial Tram with fellow guests, you'll reach the lodge. The ceremony is outdoors on a concrete patio. There will be a cocktail hour followed by buffet dinner inside the lodge, and then we'll return outside to the heated deck for dancing.</p>
+Our wedding is at about 8,000 ft. elevation at Lakeview Lodge, which is part of Heavenly Mountain Resort. After riding up the Aerial Tram with fellow guests, you'll reach the lodge. The ceremony is outdoors on a concrete patio. There will be a cocktail hour on the deck followed by a buffet dinner inside the lodge, and then we'll return to the heated deck for dancing.</p>
 <br>
 <p class="datetime">
 <b>Where:</b> Heavenly Mountain Resort, Lakeview Lodge<br>
