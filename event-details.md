@@ -69,7 +69,7 @@ The Aerial Tram leaves from the parking lot at <a href="https://goo.gl/maps/wh7V
 
 <p class="title">Sunday, July 21:&ensp;Farewell Brunch</p>
 <p class="details">
-On Sunday morning, we'll share brunch and reminisce the night. The room opens out onto a beach, so feel free to bring your bathing suit & stay for a while. If you're not staying at the hotel, it's ok to use the large parking lot there (on the DL).</p><br>
+On Sunday morning, we'll share brunch and reminisce the night. The room opens out onto a beach, so feel free to bring your bathing suit & stay a while. If you're not staying at the hotel, it's ok to use the large parking lot there (on the DL).</p><br>
 <p class="datetime"><b>Where:</b> Lakeland Village Resort, Lakeshore Room<br>
 <a href="https://goo.gl/maps/s6h2nooG8ZD2">3535 Lake Tahoe Blvd, South Lake Tahoe, CA 96150</a>
 <br><b>When:</b> 9 am - 12 pm (come by whenever you roll out of bed!)</p>
