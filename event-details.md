@@ -44,7 +44,7 @@ margin: 0 auto;
 <div class="background">
 <br>
 <p class="title">Friday, July 19:&ensp;Welcome Picnic at the Lake</p>
-<p class="details">Come join us for an afternoon at the lake! We'll have drinks, a taco truck (come hungry!), lawn games, and some seating. There's a pier for launching kayaks and paddleboards and a small beach. We'll be hanging out at the beach park (shade & grass aplenty). Parking here is free.<br><br></p>
+<p class="details">Come join us for an afternoon at the lake! We'll have drinks, a taco truck (come hungry!), lawn games, and some seating. There's a pier for launching kayaks and paddleboards and a small beach. We'll be hanging out at the beach park (shade & grass aplenty). Parking here is free and dogs are welcome.<br><br></p>
 <p class="datetime">
 <b>Where:</b> Thomas F Regan Memorial City Beach<br>
 <a href="https://goo.gl/maps/iX3Tj431Zg22">3199 Sacramento Ave, South Lake Tahoe, CA 96150</a><br>
