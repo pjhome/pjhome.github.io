@@ -7,7 +7,7 @@ permalink: /travel-lodging/
 <h1><img src="/assets/images/room-key.png" alt="Hotel Key" width="60" style="margin-right: 10px"> Where to Stay</h1>
 </center>
 
-We wanted to give everyone the option to stay close together, so we've picked a few hotels located on the same block in South Lake Tahoe. (Another incentive to stay here: we're hoping to provide shuttles to/from the wedding.) Tahoe's busy in the summer, so we recommend you make your plans soon to have the best choices.
+We wanted to give everyone the option to stay close together, so we've picked a few hotels located on the same block in South Lake Tahoe. (Another incentive to stay here: we'll be providing shuttles to/from the wedding.) Tahoe's busy in the summer, so we recommend you make your plans soon to have the best choices.
 
 <center>
 <img src="/assets/images/lodging.png" width="500">
