@@ -56,7 +56,7 @@ padding: 5px;
   <div class="column">
   <h1>Sunday July 21</h1>
   <p><b>9 am - 12 pm | Lakeland Village Resort</b>
-  <br><br>Stop by for a farewell brunch at the hotel with lake access.</p>
+  <br><br>Stop by for a farewell brunch at the hotel, on the lake. Bring a swimsuit for the pool and beach.</p>
   </div>
 </div>
 <center>
