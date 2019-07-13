@@ -81,7 +81,7 @@ padding: 5px;
 
 <h2>Wedding Day FAQs</h2>
 <h3>What is the dress code?</h3>
-<p>Semi-formal. <a href=https://www.thespruce.com/semi-formal-attire-guidelines-1216504>This article gives great guidelines for what that means.</a></p>
+<p>Semi-formal. <a href="https://www.thespruce.com/semi-formal-attire-guidelines-1216504">This article gives great guidelines for what that means.</a></p>
 
 <h3>Will I be cold at the wedding?</h3>
 <p>For bare arms, we’d recommend bringing a wrap or sweater. During the day, we expect the temperature on the mountain to be in the upper-60s - mid-70s and sunny. At night, the temperature could drop into the mid to low 50s, if it’s a cold night. The deck is heated with heat lamps and fire pits, but we’ll be dancing inside if it seems too cold. (We both get cold easily, so you’re in good hands.)</p>

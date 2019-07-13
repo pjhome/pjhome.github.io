@@ -49,7 +49,7 @@ margin: 0 auto;
 <b>Where:</b> Thomas F Regan Memorial City Beach<br>
 <a href="https://goo.gl/maps/iX3Tj431Zg22">3199 Sacramento Ave, South Lake Tahoe, CA 96150</a><br>
 <b>When:</b> 2 pm - 6 pm (feel free to stop by any time!)<br><br></p>
-<p class="details">Friday evening, we'll probably go out to the casinos and see if we can get lucky before we tie the knot ;)
+<p class="details"><b>Friday 9pm - 11pm: We'll be at Harrah's Casino in South Lake Tahoe to see if we can get lucky before we tie the knot!
 <br><br>
 </p>
 
@@ -69,8 +69,8 @@ The Aerial Tram leaves from the parking lot at <a href="https://goo.gl/maps/wh7V
 
 <p class="title">Sunday, July 21:&ensp;Farewell Brunch</p>
 <p class="details">
-On Sunday morning, we'll share brunch and reminisce the night. The room opens out onto a beach, so feel free to bring your bathing suit & stay a while. If you're not staying at the hotel, it's ok to use the large parking lot there (on the DL).</p><br>
-<p class="datetime"><b>Where:</b> Lakeland Village Resort, Lakeshore Room<br>
+On Sunday morning, we'll share a  brunch buffet and reminisce the night. We'll be next to the beach and pool, so feel free to bring your bathing suit & stay a while. If you're not staying at the hotel, it's ok to use the large parking lot there (on the DL).</p><br>
+<p class="datetime"><b>Where:</b> Lakeland Village Resort, Lakeshore Pavilion (top floor of the building by the pool & pier)<br>
 <a href="https://goo.gl/maps/s6h2nooG8ZD2">3535 Lake Tahoe Blvd, South Lake Tahoe, CA 96150</a>
 <br><b>When:</b> 9 am - 12 pm (come by whenever you roll out of bed!)</p>
 </div>
