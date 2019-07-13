@@ -49,7 +49,7 @@ margin: 0 auto;
 <b>Where:</b> Thomas F Regan Memorial City Beach<br>
 <a href="https://goo.gl/maps/iX3Tj431Zg22">3199 Sacramento Ave, South Lake Tahoe, CA 96150</a><br>
 <b>When:</b> 2 pm - 6 pm (feel free to stop by any time!)<br><br></p>
-<p class="details"><b>Casino Night, 9pm - 11pm:</b> We'll be at Harrah's Casino in South Lake Tahoe on Friday night to see if we can get lucky before we tie the knot!
+<p class="details"><b>Casino Night, 9 pm - 11 pm:</b> We'll be at Harrah's Casino in South Lake Tahoe on Friday night to see if we can get lucky before we tie the knot!
 <br><br>
 </p>
 
