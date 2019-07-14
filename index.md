@@ -94,7 +94,7 @@ padding: 5px;
 <h3>Welcome Picnic on Friday 7/19, 2pm - 6pm @ Regan Beach</h3>
 <p>Parking is free here and the parking lot is quite large. Our area is a grassy hill at one end of the parking lot, across from Fresno Ave, you can see it in the map below:</p>
 <img src="/assets/images/picnic_map.png">
-<p>We will have a bunch of games, snacks, drinks, and a taco truck for you to have a meal. We’ll also have chairs and tables. There’s no need to bring anything (and please do not bring glass bottles) - unless you want to bring a blanket or a toy for the water (non-motorized - kayak, paddleboard, etc.)</p>
+<p>We will have a bunch of games, snacks, drinks, and a taco truck for you to have a meal. The taco truck will be there from about 2:30-4:30pm in case you really don't want to miss it! We’ll also have chairs and tables. There’s no need to bring anything (and please do not bring glass bottles) - unless you want to bring a blanket or a toy for the water (non-motorized - kayak, paddleboard, etc.)</p>
 
 <h3>🎲 Casino night 🃏 on Friday 7/19, 9pm - 11pm @ Harrah’s</h3>
 <p>Though not advertised on the invite, Jordan and I will be heading to Harrah’s in South Lake Tahoe on Friday night. Address: 15 US-50, Stateline, NV. If you’d like, please drop by and give us some good luck before the wedding!</p>
